@@ -1,7 +1,4 @@
-package com.sparta.javaintroduction.poly;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.sparta.javaintroduction.poly.basic;
 
 /*
  * 다형적 참조 : 부모는 자식을 품을 수 있다.

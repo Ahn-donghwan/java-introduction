@@ -1,4 +1,4 @@
-package com.sparta.javaintroduction.poly;
+package com.sparta.javaintroduction.poly.basic;
 
 public class Child extends Parent {
 

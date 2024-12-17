@@ -1,4 +1,4 @@
-package com.sparta.javaintroduction.poly;
+package com.sparta.javaintroduction.poly.basic;
 
 // upcasting vs downcasting
 public class CastingMain3 {
